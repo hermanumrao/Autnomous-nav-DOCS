@@ -1,4 +1,4 @@
-![[hardware/Perception/Attachments/Pasted image 20260308194724.png]]
+![[Attachments/Pasted image 20260308194724.png]]
 
 
 | Category              | Specification                  | Details                                     |

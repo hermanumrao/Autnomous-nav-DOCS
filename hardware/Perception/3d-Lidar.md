@@ -1,6 +1,6 @@
 ## Livox Mid 360
 
-![[hardware/Perception/Attachments/MID360_working.mp4]]
+![[Attachments/MID360_working.mp4]]
 
 ### Spec
 
