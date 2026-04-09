@@ -1,4 +1,4 @@
-![[Attachments/Pasted image 20260308194724.png]]
+![[Attachments/Pastedimage20260308194724.png]]
 
 
 | Category              | Specification                  | Details                                     |

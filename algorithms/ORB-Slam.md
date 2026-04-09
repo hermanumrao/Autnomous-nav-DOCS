@@ -39,7 +39,7 @@ img2 = cv.drawKeypoints(img, kp, None, color=(0,255,0), flags=0)
 plt.imshow(img2), plt.show()
 ```
 
-![](Attachments/Pasted%20image%2020260316231410.png)
+![](Attachments/Pastedimage20260316231410.png)
 
 ### Real Time pose estimation of a textured object
 Nowadays, augmented reality is one of the top research topic in computer vision and robotics fields. The most elemental problem in augmented reality is the estimation of the camera pose respect of an object in the case of computer vision area to do later some 3D rendering or in the case of robotics obtain an object pose in order to grasp it and do some manipulation. However, this is not a trivial problem to solve due to the fact that the most common issue in image processing is the computational cost of applying a lot of algorithms or mathematical operations for solving a problem which is basic and immediately for humans.

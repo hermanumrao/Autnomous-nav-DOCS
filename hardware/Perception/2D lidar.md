@@ -1,4 +1,4 @@
-![[Attachments/Pasted image 20260308154022.png]] 
+![[Attachments/Pastedimage20260308154022.png]] 
 
 
 | ![](https://d1c6gk3tn6ydje.cloudfront.net/2036899223840006144%2F5b9c14d87437932dbc7350b721519740.webp) | Range Frequency  <br>5000Hz      | ![](https://d1c6gk3tn6ydje.cloudfront.net/2036899223840006144%2Ff5d35334a1afa642a1d6734c7fbabb65.webp) | Scan Frequency  <br>6-12Hz  |

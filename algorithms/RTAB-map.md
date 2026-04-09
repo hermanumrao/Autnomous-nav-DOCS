@@ -1,6 +1,6 @@
 git: https://github.com/introlab/rtabmap_ros
 
-![[Attachments/Pasted image 20260309152917.png]]
+![[Attachments/Pastedimage20260309152917.png]]
 
 ## Overview of RTAB-Map
 

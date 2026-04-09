@@ -5,7 +5,7 @@ this package helps in converting the live PCl data coming from the 3D Li-DaR to 
 It compresses the data from 3D to 2d using 2 different methods:
 1. crops the data. 
 2. projects the leftover data to XY plane
-![](Attachments/Pasted%20image%2020260316164832.png)
+![](Attachments/Pastedimage20260316164832.png)
 ### Key Idea
 
 Many robots use **2D LiDAR-based algorithms** (like SLAM and localization).  
@@ -45,7 +45,7 @@ It **projects a 3D point cloud onto a 2D plane** to simulate a laser scan.
 
 A robot has a **3D LiDAR**, but the navigation stack requires a **2D laser scan**.
 
-![](Attachments/Pasted%20image%2020260316164935.png)
+![](Attachments/Pastedimage20260316164935.png)
 
 Workflow:
 

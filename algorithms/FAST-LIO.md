@@ -14,7 +14,7 @@ The authors propose **FAST-LIO2**, a LiDAR-IMU fusion framework that aims to:
 - Run on **resource-constrained hardware**
 
 The system can achieve **>100 Hz odometry update rates** and works even with high angular velocity motions (≈1000°/s).
-![](Attachments/Pasted%20image%2020260316095152.png)
+![](Attachments/Pastedimage20260316095152.png)
 
 ---
 

@@ -1,4 +1,4 @@
-![](attachments/Pasted%20image%2020260317164855.png)
+![](attachments/Pastedimage20260317164855.png)
 
 
 | Motor Driver Pin | Arduino |
