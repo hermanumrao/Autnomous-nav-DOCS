@@ -1,3 +1,5 @@
+This code uses Ibus, Thus it will only work with Arduino MEGA series
+
 ```c++
 #include <IBusBM.h>
 #include <Servo.h>
